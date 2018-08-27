@@ -1,5 +1,5 @@
 # Simple WP Custom Widget Area
-This is simple plugin for adding a custom widget area into admin wordpress widget, to add an image you can using image widget or text widget (use image link) only drag and drop to area widget
+This is simple plugin for adding a custom widget area into admin wordpress widget, to add an image you can use image widget or text widget (use image link) only drag and drop to area widget
 
 # Show Widget
 To show widget into frontend you can add this script on page or another page you want it  : 
